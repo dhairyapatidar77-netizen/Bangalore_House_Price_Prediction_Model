@@ -10,7 +10,7 @@ using Multiple Linear Regression, built with Python and Scikit-learn.
 This project builds a price prediction model for Bangalore real estate using
 the Bengaluru House Price dataset from Kaggle. The goal is to estimate property
 prices based on key features like location, total area, number of bedrooms, and
-bathrooms. The project covers the complete data science pipeline — from raw data
+bathrooms. The project covers the complete data science pipeline, from raw data
 cleaning to model evaluation.
 
 ---
